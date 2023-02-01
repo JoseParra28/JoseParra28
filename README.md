@@ -13,6 +13,9 @@ I am currently studying Full Stack Software Development at Code Institute, Dubli
 - JAVASCRPT
 - PYTHON 
 
+# Some of my completed projects 
+![Runway Models](https://github.com/JoseParra28/runway-models-final-project)
+
 
 
 # Find me on ⬇️
@@ -20,17 +23,3 @@ I am currently studying Full Stack Software Development at Code Institute, Dubli
 
 
 
-<!--
-**JoseParra28/JoseParra28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
