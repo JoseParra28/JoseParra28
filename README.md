@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jose form Venezuleal blah blah blah.....
+
+
+
 <!--
 **JoseParra28/JoseParra28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
