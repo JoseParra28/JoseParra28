@@ -15,6 +15,9 @@ I am currently studying Full Stack Software Development at Code Institute, Dubli
 
 # Some of my completed projects 
 ![Runway Models](https://github.com/JoseParra28/runway-models-final-project)
+![<CAKE/> THE QUIZ GAME](https://github.com/JoseParra28/quiz-game-final-project)
+![HANDPERSON](https://github.com/JoseParra28/HangPerson-project/blob/main/README.md)
+
 
 
 
