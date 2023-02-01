@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋, My name is Jose
+#### Full Stack Software Developer
+![Full Stack Software Developer](https://github.com/JoseParra28)
 
-I'm Jose form Venezuleal blah blah blah.....
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
 
