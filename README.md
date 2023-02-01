@@ -1,14 +1,14 @@
 ### Hi there 👋, My name is Jose
 #### Full Stack Software Developer
-![Full Stack Software Developer](https://github.com/JoseParra28)
+![Jose Parra](https://github.com/JoseParra28)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am currently studying Full Stack Development. 
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on this page. 
 # Find me on ⬇️
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseParra28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/liftandcook_/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseParra28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/liftandcook_/)  
 
 
 
