@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Jose
+# Hi there, My name is Jose 👋
 #### Full Stack Software Developer
 ![Jose Parra](https://github.com/JoseParra28)
 
