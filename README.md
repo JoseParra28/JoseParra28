@@ -14,9 +14,9 @@ I am currently studying Full Stack Software Development at Code Institute, Dubli
 - PYTHON 
 
 # Some of my completed projects 
-(https://github.com/JoseParra28/runway-models-final-project)
+[RUSWAY MODELS](https://github.com/JoseParra28/runway-models-final-project)
 [<CAKE/> THE QUIZ GAME](https://github.com/JoseParra28/quiz-game-final-project)
-![HANDPERSON](https://github.com/JoseParra28/HangPerson-project/blob/main/README.md)
+[HANDPERSON](https://github.com/JoseParra28/HangPerson-project/blob/main/README.md)
 
 
 
