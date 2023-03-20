@@ -1,6 +1,6 @@
 # Hi there, My name is Jose 👋
 #### Full Stack Software Developer
-![Jose Parra](https://github.com/JoseParra28)
+(https://github.com/JoseParra28)
 
 ## About me
 I am a former Pastry chef. I have recently decided to change my career to Software Development.  
