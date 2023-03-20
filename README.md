@@ -3,8 +3,7 @@
 (https://github.com/JoseParra28)
 
 ## About me
-I am a former Pastry chef. I have recently decided to change my career to Software Development.  
-I am currently studying Full Stack Software Development at Code Institute, Dublin. 
+I am Jose Parra, I’m a full-stack software developer student with a passion for building front end web applications that are user friendly websites. I have a solid understanding of using both front end and back end development and I am exited to use my skills in a professional setting and I am a quick learner and team player, I am confident that I can be a valuable asset to any web development team.
 
 
 # I am currently working on
