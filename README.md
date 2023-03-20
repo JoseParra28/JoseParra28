@@ -22,7 +22,7 @@ I am currently studying Full Stack Software Development at Code Institute, Dubli
 
 
 # Find me on ⬇️
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseParra28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/liftandcook_/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseParra28)  [<img src='https://www.linkedin.com/in/jose-parra-b50556247/' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/jose-parra-b50556247/)  
 
 
 
