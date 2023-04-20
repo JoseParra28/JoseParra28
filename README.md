@@ -1,6 +1,6 @@
 # Hi there, My name is Jose 👋
 #### Developer and Designer 
-<img src="madia/photo.png" alt="Am-i-home">
+<img src="media/photo.png" alt="Am-i-home">
 
 ## About me
 I am Jose Parra, I’m a Software development and UX Design student with a passion for designing and building front end web applications that are user friendly. I have a solid understanding of using both front end and back end development and I am exited to use my skills in a professional setting and I am a quick learner and team player, I am confident that I can be a valuable asset to any web development team.
