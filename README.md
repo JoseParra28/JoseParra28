@@ -8,12 +8,12 @@ I am Jose Parra, I’m a Software development and UX Design student with a passi
 ## Key skills
 
     Currently mastering                    
-| -------------  | -------------            |
-|   Languages    | HTML, CSS, JS, Python    |
-|   Databases    | MySQL, PostgreSQL        |          
-|   Libraries    | jQuery, ThreeJS          |
-| Version control| Heroku, GitHub, Git      | 
-| Frameworks     | Flask, Django, Bootstrap |
+| -------------  | -------------            
+|   Languages    | HTML, CSS, JS, Python    
+|   Databases    | MySQL, PostgreSQL                  
+|   Libraries    | jQuery, ThreeJS          
+| Version control| Heroku, GitHub, Git       
+| Frameworks     | Flask, Django, Bootstrap 
 
 # Some of my completed projects 
 - [RUNWAY MODELS](https://github.com/JoseParra28/runway-models-final-project)
