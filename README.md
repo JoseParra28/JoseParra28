@@ -8,7 +8,7 @@ I am Jose Parra, I’m a Software development and UX Design student with a passi
 ## Key skills
 
     Currently mastering                    
-| -------------  | -------------            
+| -------------  | -------------            |
 |   Languages    | HTML, CSS, JS, Python    
 |   Databases    | MySQL, PostgreSQL                  
 |   Libraries    | jQuery, ThreeJS          
