@@ -8,6 +8,7 @@ Junior Full Stack Developer looking for oportunities as front / backend or data 
 (Anything coding related)
 
 ## Stuff I'm enjoying at the moment
+ - UX/UI Desighn
  - HTML
  - CSS
  - JS
