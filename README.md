@@ -23,7 +23,7 @@ Junior Full Stack Developer looking for oportunities as front or backend.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' color='white'>](https://github.com/JoseParra28) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/jose-p-b50556247/)  
 
-#Email
+# Email
 jmjp_18@hotmail.com
 
 
