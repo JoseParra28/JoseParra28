@@ -4,7 +4,8 @@
 
 
 ### About me
-Junior Full Stack Developer looking for oportunities as front or backend.
+Junior Full Stack Developer looking for oportunities as front / backend or data analysis.
+(Anything coding related)
 
 ## Stuff I'm enjoying at the moment
  - HTML
