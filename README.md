@@ -1,20 +1,18 @@
- <img src="media/photo.png" alt="Am-i-home">
+
  
- # Hi there, My name is Jose 👋
-#### Developer and Designer
+ # Hi there  👋
+## Full Stack Developer
+
 
 ### About me
-I am Jose Parra, I’m a Software development and UX Design student with a passion for designing and building front end web applications that are user friendly. I have a solid understanding of using both front end and back end development and I am exited to use my skills in a professional setting and I am a quick learner and team player, I am confident that I can be a valuable asset to any web development team.
+Junior Developer looking for oportunities as front or backend.
 
-## Key skills
+## Stuff I'm enjoying at the moment
 
-    Currently mastering                    
-| -------------  | -------------            |
-|   Languages    | HTML, CSS, JS, Python    
-|   Databases    | MySQL, PostgreSQL                  
-|   Libraries    | jQuery, ThreeJS          
-| Version control| Heroku, GitHub, Git       
-| Frameworks     | Flask, Django, Bootstrap 
+
+| -------------  | 
+| React JS       |
+| Javascript     | 
 
 # Some of my completed projects 
 - [RUNWAY MODELS](https://github.com/JoseParra28/runway-models-final-project)
