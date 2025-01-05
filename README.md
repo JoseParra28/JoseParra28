@@ -1,11 +1,10 @@
 
  
  # Hi there  👋
- #### Full Stack Developer
 
 
 ### About me
-Junior Developer looking for oportunities as front or backend.
+Junior Full Stack Developer looking for oportunities as front or backend.
 
 ## Stuff I'm enjoying at the moment
  - HTML
