@@ -4,7 +4,7 @@
 
 
 ### About me
-I am a aspiring Full Stack Software Developer or Data analyst.
+I am a aspiring Full Stack Software Developer / Data analyst.
 
 ### Career
 Former pastry chef with a passion for creativity, precision, and problem-solving, looking to enter the world of software development. 
