@@ -22,6 +22,7 @@ My passion for coding grew more and more but I lost my confidence when I was una
  - CSS
  - JavaScript and JQuery
  - React JS
+ - Three JS (React Three Fiber)
  - NodeJS
  - Python
  - Flask
