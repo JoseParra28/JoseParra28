@@ -36,7 +36,7 @@ During my experience I have also learned industries best practices, in regards o
 
 
 ## Find me on ⬇️
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' color='white'>](https://github.com/JoseParra28) 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/jose-p-b50556247/)  
 
 # Email
