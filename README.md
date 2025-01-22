@@ -7,7 +7,7 @@
 I am a aspiring Full Stack Software Developer.
 
 ### Career
-Former pastry chef with a passion for creativity, precision, and problem-solving, looking to enter the world of software development. 
+Former pastry chef with a passion for creativity, precision, and problem-solving, looking to once again enter the world of software development. 
 
 ### Studies
 - I have completed a BA in Culinary arts in Cork Institute of Technology.
