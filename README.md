@@ -4,14 +4,9 @@
 
 
 ### About me
-I am a aspiring Full Stack Software Developer.
-
-### Career
-Former pastry chef with a passion for creativity, precision, and problem-solving, looking to once again enter the world of software development. 
+I am a Full Stack Software Developer.
 
 ### Studies
-- I have completed a BA in Culinary arts in Cork Institute of Technology.
-- Patisserie diploma in Le Cordon Bleu Paris.
 - Full Stack Software Development Program at Code Institute.
 
 ## Stuff I'm enjoying at the moment
@@ -31,8 +26,7 @@ Former pastry chef with a passion for creativity, precision, and problem-solving
 During my experience I have also learned industries best practices, in regards of accessibility, Agile Development aswell as Vertion control. 
 
 
-# Portfolio website  
-[Jose Parra](https://jose-parra.netlify.app/)
+
 
 
 ## Find me on ⬇️
